@@ -1,7 +1,7 @@
 # Hostel_website_Homepage-FIGMA
 Designed a simple UI for a hostel website with registration form. Dropdown options are created for some textbars. The homepage can navigate to login and signup page. Overlays of various parts are created. And also closing buttons for it.
 
-https://www.figma.com/proto/0m67vtMsMvqAaHgyncfsTD/Project-preview?page-id=0%3A1&type=design&node-id=156-1383&viewport=235%2C38%2C0.08&t=T4itTt0bHWGYEojC-1&scaling=scale-down&mode=design
+https://www.figma.com/proto/wLEhpZgc7rShyAdkLuyxC1/Projects?page-id=0%3A1&type=design&node-id=180-3&viewport=-2000%2C1221%2C0.06&t=v5ajVzQm3VYBTKBp-1&scaling=contain&starting-point-node-id=1%3A8&mode=design
 # Preview:
 
 
